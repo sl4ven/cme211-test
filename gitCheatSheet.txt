@@ -1,0 +1,6 @@
+Clone remote git repository:
+$ git clone <URL> [dirname] 
+
+Stage file to be committed to git repository
+$ git add <filename>
+
